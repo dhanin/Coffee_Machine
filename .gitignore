@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine/task/build/
+/Coffee Machine/task/out/
+/Coffee Machine/task/out/production/classes/
+/Problems/Hidden enumeration/out/
+/Problems/Hidden enumeration/out/production/classes/
+/Problems/The maximum product of adjacent elements/out/
+/Problems/The maximum product of adjacent elements/out/production/classes/
